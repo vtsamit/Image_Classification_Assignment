@@ -1,0 +1,7 @@
+torch
+torchvision
+tqdm
+matplotlib
+cv2
+streamlit
+numpy
