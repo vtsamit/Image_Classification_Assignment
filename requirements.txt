@@ -2,6 +2,6 @@ torch
 torchvision
 tqdm
 matplotlib
-cv2
+opencv-python
 streamlit
 numpy
