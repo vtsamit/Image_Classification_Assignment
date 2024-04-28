@@ -1,6 +1,6 @@
 import streamlit as st
 import torch 
-from cv2 import cv2 
+import cv2 
 import torchvision.transforms as transforms 
 
 
